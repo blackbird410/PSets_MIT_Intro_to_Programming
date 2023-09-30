@@ -1,7 +1,7 @@
 # 6.0001/6.00 Problem Set 5 - RSS Feed Filter
 # Name: Neil Taison RIGAUD
 # Collaborators: None
-# Time: 10:05 AM ~ ...
+# Time: 10:05 AM ~ 10:15 PM
 
 import feedparser
 import string
